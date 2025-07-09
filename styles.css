@@ -51,7 +51,7 @@ h1 {
     margin: 40px;
 }
 
-ol {
+.recipes {
     list-style-type: none;
     align-content: center;
     display: block;
